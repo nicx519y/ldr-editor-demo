@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "forceConsistentCasingInFileNames": true,
+        "target": "ES5",
+        "module": "commonjs",
+        "strict": true,
+        "sourceMap": true,
+        "outDir": "./dist",
+        "experimentalDecorators": true,
+        "noImplicitAny": false,
+        "types": []
+    }
+}
